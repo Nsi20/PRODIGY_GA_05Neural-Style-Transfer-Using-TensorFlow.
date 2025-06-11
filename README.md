@@ -1,6 +1,4 @@
-# PRODIGY_GA_05
-
-# Neural Style Transfer Using TensorFlow  
+ # Neural Style Transfer Using TensorFlow  
 
 This project demonstrates **Neural Style Transfer**, where one image's content is combined with another's artistic style to create a visually appealing artwork. The implementation uses TensorFlow and the pre-trained VGG19 model to extract content and style features for the transfer.  
 
